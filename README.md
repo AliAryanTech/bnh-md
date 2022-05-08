@@ -1,7 +1,7 @@
 # bnh-md
 a multi device bot built with baileys 
 # Hosting
-Only supports local hosting and to run it you need to write the following:
+Only supports local hosting and to run it you need to write the following on your terminal:
 - yarn
 - tsc -p .
 - yarn dev
