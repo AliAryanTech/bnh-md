@@ -1,0 +1,36 @@
+{
+  "name": "bnh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc --ignore-watch node_modules build/main.js",
+    "dev": "ts-node-dev --ignore-watch node_modules dist/main.js",
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^9.1.4",
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "chalk": "4.1.2",
+    "discord-bot-eco": "^1.4.1",
+    "express": "^4.17.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "lock": "^1.1.0",
+    "node-fetch": "2.6.1",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.30.4",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "cfonts": "^2.10.1"
+  }
+}
