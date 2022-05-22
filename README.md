@@ -1,11 +1,10 @@
 # bnh-md
 a multi device bot built with baileys 
-# Hosting
-Only supports local hosting and to run it you need to write the following on your terminal:
+# Hosting/ deployment
+WINDOWS:
 - yarn
 - tsc -p .
 - yarn dev
-
 then scan qr and you logged in
  # Making commands 
  you can make commands without hassling
