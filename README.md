@@ -4,6 +4,7 @@ a multi device bot built with baileys
 WINDOWS:
 - yarn
 - tsc -p .
+- you should see 2 errors from node modules but dont worry about that.
 - yarn dev
 then scan qr and you logged in
  # Making commands 
