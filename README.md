@@ -11,5 +11,7 @@ then scan qr and you logged in
  you can make commands without hassling
  
  the bots response is directly from sock, so go to [baileys](https://github.com/adiwajshing/Baileys) for sending media messages
+ # Contributing
+ if you want to report any bugs then click/ go to [issues](https://github.com/Cyberkingcr7/bnh-md/issues) 
 
 
