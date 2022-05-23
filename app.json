@@ -1,0 +1,21 @@
+{
+    "name": "WhatsApp-Botto",
+    "description": "Multi Device Support Enabled Multipurpose, Efficient, Modular WhatsApp Bot.",
+    "keywords": [
+        "bot",
+        "whatsapp",
+        "stickers",
+        "whatsapp-stickers",
+        "anime",
+        "whatsapp-bot",
+        "whatsapp-sticker-bot",
+        "whatsapp-botto"
+    ],
+    "website": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Entropy#readme",
+    "repository": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Entropy",
+    "logo": "https://avatars.githubusercontent.com/u/82653857?s=200&v=4",
+    "success_url": "/",
+    "env": {
+        "PREFIX": {
+            "description": "Prefix of your bot"
+        }}}
