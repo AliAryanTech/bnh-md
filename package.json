@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/main.ts",
   "scripts": {
-    "dev": "ts-node-dev --ignore-watch node_modules dist/main.js"
+    "start": "ts-node-dev --ignore-watch node_modules dist/main.js"
   
   },
   "keywords": [],
