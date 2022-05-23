@@ -7,6 +7,9 @@ WINDOWS:
 - you should see 2 errors from node modules but dont worry about that.
 - yarn dev
 then scan qr and you logged in
+# Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
  # Making commands 
  you can make commands without hassling
  
