@@ -9,7 +9,7 @@
   
   },
   "keywords": [],
-  "author": "",
+  "author": "suijin",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -19,16 +19,21 @@
     "@typescript-eslint/parser": "^5.21.0",
     "chalk": "4.1.2",
     "discord-bot-eco": "^1.4.1",
+    "dotenv": "^10.0.0",
     "express": "^4.17.3",
     "fluent-ffmpeg": "^2.1.2",
     "lock": "^1.1.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
     "node-fetch": "2.6.1",
     "qr-image": "^3.2.0",
     "qrcode": "^1.5.0",
     "qrcode-terminal": "^0.12.0",
     "sharp": "^0.30.4",
+    "socket.io": "^4.5.0",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.6.2"
+    "typescript": "^4.6.2",
+    "yargs": "^17.5.1"
   },
   "devDependencies": {
     "cfonts": "^2.10.1"
