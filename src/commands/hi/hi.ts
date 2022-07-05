@@ -1,3 +1,5 @@
+
+import Message from "../../client/Message";
 import { Command } from "../../models/Command";
 
 export = class extends Command {
@@ -8,7 +10,7 @@ export = class extends Command {
         });
     };
 
-    run = async (m) => {
+    run = async (M:Message) => {
         const sock = this.client.sock
 
         const sections = [
@@ -36,6 +38,6 @@ export = class extends Command {
             sections
         }
 
-        sock.sendMessage(m.from, listMessage);
+        sock.sendMessage(M.from, listMessage);
     }
 }
