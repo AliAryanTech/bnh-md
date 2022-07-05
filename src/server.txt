@@ -41,7 +41,7 @@ const qrPrint = (qr) => {
     })
 }
 
-// Run the server
+// Run the serve
 const PORT = process.env.PORT || 2000
 httpServer.listen(PORT, () => {
     console.log(chalk.green('[BNH] Scan qrcode on port: ') + chalk.yellow(`${PORT}`))
